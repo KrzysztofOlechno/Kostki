@@ -1,0 +1,23 @@
+html, body
+{
+width: 100%;
+height: 100%;
+}
+
+.buttonThrow
+{
+width: 50%;
+height: 25%;
+text-align: center;
+display: block;
+float: left;
+}
+
+.textSpan{
+    vertical-align: bottom;
+    font-size: 50px;
+}
+
+#button1k20{
+    width: 100%; 
+}
